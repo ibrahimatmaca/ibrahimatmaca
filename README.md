@@ -13,6 +13,7 @@
 <h3>Know / Using</h3>
 <img src="https://www.shareicon.net/data/64x64/2016/07/07/115326_unity_476x476.png">
 
-<h3>Contact Me</h3>
+### Contact Me
+[<img align = "left" alt="ibrahimatmaca" width = "22px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"/>][LinkedIn]
 
-
+[LinkedIn]: https://www.linkedin.com/in/ibrahimatmaca/
