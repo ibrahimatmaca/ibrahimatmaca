@@ -5,11 +5,9 @@
 -->
 <h3> Welcome Github Page: </h3>
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: [Instagram - @ibrahimatmaca97](https://www.instagram.com/ibrahimatmaca61)
-- ⚡ Fun fact: ...
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
+
+<h3>Know / Using</h3>
+<img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg">
