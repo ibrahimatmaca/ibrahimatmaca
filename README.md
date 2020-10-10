@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Flutter 
 
-### Languages and Tools :tools:
+### Languages and Tools :hammer_and_wrench:
 
 <img align = "left" width = "50px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"/>
 <img align = "left" width = "50px" src="https://image.flaticon.com/icons/png/512/906/906324.png"/>
