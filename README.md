@@ -27,8 +27,10 @@
 
 ### Tools & Technology
 
-![](https://img.shields.io/badge/C - Programming -informational?style=flat&logo=<C>&logoColor=white&color=2bbc8a)
-
+<img align = "left" width = "40px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"/>
+<img align = "left" width = "40px" src="https://image.flaticon.com/icons/png/512/906/906324.png"/>
+<img align = "left" width = "40px" src="https://www.cdslab.org/recipes/images/C.png"/>
+<img align = "left" width = "40px" src="https://e7.pngegg.com/pngimages/929/60/png-clipart-net-framework-c-net-core-software-framework-mono-studio-purple-studio.png"/>
 
 <br>
 <br>
@@ -37,10 +39,14 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
 
 <br>
-### <--------------------------------------------------------------------->
+
+### ---------------------------------------------------------------------
+
 <br>
+
 ### Visitors :speech_balloon:
 ![](https://komarev.com/ghpvc/?username=ibrahimatmaca)
+
 
 [LinkedIn]: https://www.linkedin.com/in/ibrahimatmaca/
 [Instagram]: https://www.instagram.com/in/ibrahimatmaca61/
