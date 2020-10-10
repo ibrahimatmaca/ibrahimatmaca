@@ -14,5 +14,6 @@
 <img src="https://www.shareicon.net/data/64x64/2016/07/07/115326_unity_476x476.png">
 
 <h3>Contact Me</h3>
-[Instagram - @ibrahimatmaca97](https://www.instagram.com/ibrahimatmaca61)
+<a href:"https://www.instagram.com/ibrahimatmaca61"> Instagram </a>
+<a href:"https://www.linkedin.com/in/ibrahimatmaca/"> LinkedIn </a>
 
