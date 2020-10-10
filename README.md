@@ -8,12 +8,12 @@
 
 ### Languages and Tools :brain:
 
-<img align = "left" width = "40px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"/>
-<img align = "left" width = "40px" src="https://image.flaticon.com/icons/png/512/906/906324.png"/>
-<img align = "left" width = "40px" src="https://www.cdslab.org/recipes/images/C.png"/>
-<img align = "left" width = "40px" src="https://yigitcanbalcin.com/img/svg/csharp-logo.png"/>
-<img align = "left" width = "64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"/>
-<img align = "left" width = "64px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png"/>
+<img align = "left" width = "50px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"/>
+<img align = "left" width = "50px" src="https://image.flaticon.com/icons/png/512/906/906324.png"/>
+<img align = "left" width = "50px" src="https://www.cdslab.org/recipes/images/C.png"/>
+<img align = "left" width = "50px" src="https://yigitcanbalcin.com/img/svg/csharp-logo.png"/>
+<img align = "left" width = "50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"/>
+<img align = "left" width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png"/>
 <br>
 <br>
 
@@ -29,12 +29,12 @@
 
 <br>
 <br>
+<br>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
 
 <br>
-
 
 ### ---------------------------------------------------------------------
 
