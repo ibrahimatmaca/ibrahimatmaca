@@ -24,7 +24,7 @@
 <br>
 <br>
 
-### My App Play Store
+### My Published Apps
 [<img align = "left" alt="ibrahimatmaca" width = "50px" src="https://bit.ly/2SI0aOm"/>][Play Sotre]
 
 [LinkedIn]: https://www.linkedin.com/in/ibrahimatmaca/
