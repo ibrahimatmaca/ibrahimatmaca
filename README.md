@@ -25,7 +25,7 @@
 <br>
 
 ### My App Play Store
-[<img align = "left" alt="ibrahimatmaca" width = "50px" src="https://thumbnail.imgbin.com/1/17/8/imgbin-google-play-app-store-android-google-bAQ2Y7Ffs3ttFDcfK9Cd1sD28_t.jpg"/>][Play Sotre]
+[<img align = "left" alt="ibrahimatmaca" width = "50px" src="https://bit.ly/2SI0aOm"/>][Play Sotre]
 
 [LinkedIn]: https://www.linkedin.com/in/ibrahimatmaca/
 [Instagram]: https://www.instagram.com/in/ibrahimatmaca61/
