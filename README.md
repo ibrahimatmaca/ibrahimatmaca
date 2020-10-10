@@ -24,19 +24,17 @@
 [<img align = "left" alt="ibrahimatmaca" width = "50px" src="https://bit.ly/2SI0aOm"/>][Play Sotre]
 
 <br>
-<br>
-
-### Visitors :speech_balloon:
-![](https://komarev.com/ghpvc/?username=ibrahimatmaca)
-
-<br>
-<br>
 
 ### Tools & Technology
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<C>-<WORD_ON_RIGHT>-informational?style=flat&logo=<C>&logoColor=white&color=2bbc8a)
 
 
+<br>
+
+
+### Visitors :speech_balloon:
+![](https://komarev.com/ghpvc/?username=ibrahimatmaca)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
 
 
