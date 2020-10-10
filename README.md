@@ -34,6 +34,7 @@
 <img align = "left" width = "40px" src="https://e7.pngegg.com/pngimages/929/60/png-clipart-net-framework-c-net-core-software-framework-mono-studio-purple-studio.png"/>
 
 <br>
+<br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
 
