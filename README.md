@@ -27,17 +27,20 @@
 
 ### Tools & Technology
 
-![](https://img.shields.io/badge/<C>-<WORD_ON_RIGHT>-informational?style=flat&logo=<C>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C - Programming -informational?style=flat&logo=<C>&logoColor=white&color=2bbc8a)
 
 
 <br>
+<br>
 
 
-### Visitors :speech_balloon:
-![](https://komarev.com/ghpvc/?username=ibrahimatmaca)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
 
-
+<br>
+### <--------------------------------------------------------------------->
+<br>
+### Visitors :speech_balloon:
+![](https://komarev.com/ghpvc/?username=ibrahimatmaca)
 
 [LinkedIn]: https://www.linkedin.com/in/ibrahimatmaca/
 [Instagram]: https://www.instagram.com/in/ibrahimatmaca61/
