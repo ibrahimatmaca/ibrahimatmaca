@@ -5,6 +5,7 @@
 -->
 
 - 🌱 I’m currently learning Flutter 
+- ✨ My Hobbies: Spark AR
 
 ### Languages and Tools :hammer_and_wrench:
 
