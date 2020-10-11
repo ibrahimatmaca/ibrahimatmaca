@@ -26,7 +26,7 @@
 <br>
 
 ### My Published Apps :milky_way:
-[<img align = "left" alt="ibrahimatmaca" width = "50px" src="https://webstockreview.net/images/google-play-store-png.png"/>][Play Sotre]
+[<img align = "left" alt="ibrahimatmaca" width = "100px" src="https://webstockreview.net/images/google-play-store-png.png"/>][Play Sotre]
 
 <br>
 <br>
