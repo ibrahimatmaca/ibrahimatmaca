@@ -10,7 +10,7 @@
 ### Languages and Tools :hammer_and_wrench:
 
 <img align = "left" width = "50px" src="https://www.cdslab.org/recipes/images/C.png"/>
-<img align = "left" width = "50px" src="https://yigitcanbalcin.com/img/svg/csharp-logo.png"/>
+<img align = "left" width = "50px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
 <img align = "left" width = "50px" src="https://camo.githubusercontent.com/1e5dbc520321b96fed91f0100bc55cfcf6a6f506/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667"/>
 <img align = "left" width = "75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png"/>
 <img align = "left" width = "50px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"/>
