@@ -28,6 +28,10 @@
 <br>
 <br>
 
+## My Stats
+[![İbrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca)](https://github.com/ibrahimatmaca/github-readme-stats)
+
+
 ### My Published Apps :milky_way:
 [<img align = "left" alt="ibrahimatmaca" width = "100px" src="https://webstockreview.net/images/google-play-store-png.png"/>][Play Sotre]
 
