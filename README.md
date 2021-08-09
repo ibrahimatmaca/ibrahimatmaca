@@ -28,8 +28,8 @@
 <br>
 <br>
 
-## My Stats
-[![İbrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca)](https://github.com/ibrahimatmaca/github-readme-stats)
+## Most Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimatmaca&layout=compact)](https://github.com/ibrahimatmaca/github-readme-stats)
 
 
 ### My Published Apps :milky_way:
@@ -39,7 +39,7 @@
 <br>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
+![İbrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
 
 ### ---------------------------------------------------------------------
 
