@@ -28,16 +28,16 @@
 <br>
 <br>
 
-## Most Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimatmaca&layout=compact)](https://github.com/ibrahimatmaca/github-readme-stats)
+
 
 
 ### My Published Apps :milky_way:
 [<img align = "left" alt="ibrahimatmaca" width = "100px" src="https://webstockreview.net/images/google-play-store-png.png"/>][Play Sotre]
 
 <br>
-<br>
-<br>
+
+## Most Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimatmaca&layout=compact)](https://github.com/ibrahimatmaca/github-readme-stats)
 
 ![İbrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
 
