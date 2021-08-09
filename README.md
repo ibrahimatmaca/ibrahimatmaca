@@ -36,7 +36,7 @@
 
 <br>
 
-## Most Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimatmaca&layout=compact)](https://github.com/ibrahimatmaca/github-readme-stats)
 
 ![İbrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
