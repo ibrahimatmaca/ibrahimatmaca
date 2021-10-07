@@ -50,5 +50,5 @@
 
 
 [LinkedIn]: https://www.linkedin.com/in/ibrahimatmaca/
-[Instagram]: https://www.instagram.com/in/ibrahimatmaca61/
+[Instagram]: https://www.instagram.com/ibrahimatmaca61/
 [Play Sotre]: https://play.google.com/store/apps/developer?id=%C4%B0brahim+Atmaca
