@@ -4,7 +4,7 @@
 **ibrahimatmaca/ibrahimatmaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning Flutter, Spark and Illustrator
+- 🌱 I’m currently learning Flutter, Spark and Kotlin
 - ✨ My Hobbies: Spark AR, Hyper Casual Game, SEO
 
 ### Languages and Tools :hammer_and_wrench:
