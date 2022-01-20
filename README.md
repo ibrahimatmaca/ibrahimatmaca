@@ -43,6 +43,8 @@
 
 ![İbrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
 
+![snake svg](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 ### ---------------------------------------------------------------------
 
 ### Visitors :speech_balloon:
