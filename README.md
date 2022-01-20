@@ -45,10 +45,6 @@
 
 ![snake svg](https://github.com/ibrahimatmaca/ibrahimatmaca/blob/output/github-contribution-grid-snake.svg)
 
-### ---------------------------------------------------------------------
-
-### Visitors :speech_balloon:
-![](https://komarev.com/ghpvc/?username=ibrahimatmaca)
 
 
 [LinkedIn]: https://www.linkedin.com/in/ibrahimatmaca/
