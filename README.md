@@ -39,8 +39,6 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimatmaca)](https://github.com/anuraghazra/github-readme-stats)
-
 ![İbrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark)
 
 ![snake svg](https://github.com/ibrahimatmaca/ibrahimatmaca/blob/output/github-contribution-grid-snake.svg)
