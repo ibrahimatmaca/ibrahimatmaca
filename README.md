@@ -20,12 +20,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimatmaca&show_icons=true&locale=en&layout=compact" alt="ibrahimatmaca" /></p>
 
-<b>
-  ### My Published Apps :milky_way:
-[<img align = "left" alt="ibrahimatmaca" width = "100px" src="https://webstockreview.net/images/google-play-store-png.png"/>][Play Sotre]
-  <b>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&locale=en" alt="ibrahimatmaca" /></p>
 
 
+### My Published Apps :milky_way:
+![<img align = "left" alt="ibrahimatmaca" width = "100px" src="https://webstockreview.net/images/google-play-store-png.png"/>][Play Sotre]
 ![snake svg](https://github.com/ibrahimatmaca/ibrahimatmaca/blob/output/github-contribution-grid-snake.svg)
