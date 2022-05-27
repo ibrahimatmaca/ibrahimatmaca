@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm İbrahim Atmaca</h1>
-<h3 align="center">A passionate Flutter Developer from Turkey</h3>
+<h3 align="center">A passionate Mobile Application Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Flutter applications with Clean Architecture or MVVM pattern.**
+- 🌱 I’m currently learning **Swift and Flutter applications with Clean Architecture or MVVM pattern **
 
 - 📫 How to reach me **ibrahim.atmaca61@hotmail.com**
 
