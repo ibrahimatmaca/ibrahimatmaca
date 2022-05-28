@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Swift and Flutter applications with Clean Architecture or MVVM pattern.**
+- 🌱 I’m currently learning **SwiftUI and Flutter applications with Clean Architecture or MVVM pattern.**
 
 - 📫 How to reach me **ibrahim.atmaca61@hotmail.com**
 
