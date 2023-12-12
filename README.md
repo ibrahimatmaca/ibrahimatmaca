@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm İbrahim Atmaca</h1>
 <h3 align="center">A passionate Mobile Application Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **iWallet**
+- 🔭 I’m currently working on **MoneyPay**
 
-- 🌱 I’m currently learning **SwiftUI and Flutter applications with Clean Architecture or MVVM pattern.**
+- 🌱 I’m currently learning **UIKit, SwiftUI and Flutter applications with Clean Architecture or MVVM pattern.**
 
 - 📫 How to reach me **ibrahim.atmaca61@hotmail.com**
 
