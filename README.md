@@ -65,8 +65,3 @@ REST API, Payment Integrations, Automated Testing, Agile
 - Email: **ibrahim.atmaca61@hotmail.com**
 
 ---
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/ibrahimatmaca/ibrahimatmaca/blob/output/github-contribution-grid-snake.svg"/>
-</p>
