@@ -23,23 +23,62 @@
 
 ## 🛠️ Skills & Technologies
 
-**Languages:**  
-Swift, Dart, C#, JavaScript
+### 🍎 Core: native iOS
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,xcode&theme=dark&perline=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,xcode&theme=light&perline=8" />
+    <img alt="Swift, Xcode" src="https://skillicons.dev/icons?i=swift,xcode&theme=light&perline=8" />
+  </picture>
+</p>
 
-**Mobile:**  
-Flutter, SwiftUI, UIKit, Android SDK
+<p align="center">
+  <b>Swift 6</b> · <b>SwiftUI</b> · UIKit · SwiftData · StoreKit 2 · WidgetKit & Live Activities · Combine / async-await
+</p>
 
-**Architecture:**  
-Clean Architecture, MVVM, MVC
+### 📱 Cross-platform & other languages
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,androidstudio,cs,js,python&theme=dark&perline=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,androidstudio,cs,js,python&theme=light&perline=8" />
+    <img alt="Flutter, Dart, Android Studio, C#, JavaScript, Python" src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,cs,js,python&theme=light&perline=8" />
+  </picture>
+</p>
 
-**Backend & Database:**  
-Firebase, MongoDB, MySQL, SQLite
+<p align="center">
+  Flutter · Dart · Android SDK · C# · JavaScript · Python
+</p>
 
-**Design & Tools:**  
-Figma, Adobe XD, Illustrator, Git
+### 🧱 Architecture & Quality
+<p align="center">
+  Clean Architecture · MVVM · MVC · Modular / feature-toggle design · Automated testing (Swift Testing, Maestro) · Agile
+</p>
 
-**Other:**  
-REST API, Payment Integrations, Automated Testing, Agile
+### ☁️ Backend, Data & Payments
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite&theme=dark&perline=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite&theme=light&perline=8" />
+    <img alt="Firebase, MongoDB, MySQL, SQLite" src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite&theme=light&perline=8" />
+  </picture>
+</p>
+
+<p align="center">
+  REST API · Firebase · MongoDB · MySQL · SQLite · Payment & wallet integrations
+</p>
+
+### 🎨 Design & Tools
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,xd,ai,git&theme=dark&perline=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,xd,ai,git&theme=light&perline=8" />
+    <img alt="Figma, Adobe XD, Illustrator, Git" src="https://skillicons.dev/icons?i=figma,xd,ai,git&theme=light&perline=8" />
+  </picture>
+</p>
+
+<p align="center">
+  Figma · Adobe XD · Illustrator · Git · Apple Human Interface Guidelines
+</p>
 
 ---
 
