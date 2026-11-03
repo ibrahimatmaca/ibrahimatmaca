@@ -46,9 +46,9 @@ REST API, Payment Integrations, Automated Testing, Agile
 ## 📱 Apps & Projects
 
 - **MoneyPay:** Leading-edge payment & wallet app (App Store & Play Store)
-- **[QTickers](https://github.com/ibrahimatmaca/ios-qtickers):** Real-time crypto price notification bot (indie project)
-- **[Elevana](https://github.com/ibrahimatmaca/elevana):** iOS goals & vision board app with widgets and Live Activities
-- **[Wada Collection](https://github.com/ibrahimatmaca/wadacode):** Wardrobe and outfit suggestions based on the Sanzo Wada color palette (SwiftUI, SwiftData, StoreKit 2)
+- **[QTickers](https://qtickers.com/):** Real-time crypto price notification bot (indie project)
+- **[Elevana](https://apps.apple.com/us/app/elevana/id6745828686):** iOS goals & vision board app with widgets and Live Activities
+- **Wada Collection:** Wardrobe and outfit suggestions based on the Sanzo Wada color palette (SwiftUI, SwiftData, StoreKit 2) — coming soon
 - **[ShotForge](https://github.com/ibrahimatmaca/shotforge):** App Store screenshot generator CLI + MCP server
 - **Other Ideas:** Always developing new MVPs and prototypes for the finance & productivity sectors.
 
