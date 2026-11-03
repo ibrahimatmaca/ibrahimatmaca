@@ -2,9 +2,10 @@
 <h3 align="center">Mobile Application Developer | FinTech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ibrahimatmaca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/17797499" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow" /></a>
-  <a href="https://instagram.com/ibrahimatmaca61" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ibrahimatmaca"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/17797499"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://instagram.com/ibrahimatmaca61"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://ibrahimatmaca.github.io"><img alt="Blog" src="https://img.shields.io/badge/Blog-6E7681?style=for-the-badge&logo=rss&logoColor=white" /></a>
 </p>
 
 ---
@@ -42,20 +43,33 @@ REST API, Payment Integrations, Automated Testing, Agile
 
 ---
 
-## 📱 Published Apps & Projects
+## 📱 Apps & Projects
 
 - **MoneyPay:** Leading-edge payment & wallet app (App Store & Play Store)
-- **QTickers:** Real-time crypto price notification bot (indie project)
+- **[QTickers](https://github.com/ibrahimatmaca/ios-qtickers):** Real-time crypto price notification bot (indie project)
+- **[Elevana](https://github.com/ibrahimatmaca/elevana):** iOS goals & vision board app with widgets and Live Activities
+- **[Wada Collection](https://github.com/ibrahimatmaca/wadacode):** Wardrobe and outfit suggestions based on the Sanzo Wada color palette (SwiftUI, SwiftData, StoreKit 2)
+- **[ShotForge](https://github.com/ibrahimatmaca/shotforge):** App Store screenshot generator CLI + MCP server
 - **Other Ideas:** Always developing new MVPs and prototypes for the finance & productivity sectors.
-
-[<img alt="Google Play Store" width="120px" src="https://webstockreview.net/images/google-play-store-png.png"/>](https://play.google.com/store/apps/developer?id=%C4%B0brahim+Atmaca)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark" alt="İbrahim's github stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&hide_border=true" />
+    <img alt="İbrahim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ibrahimatmaca&show_icons=true&hide_border=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimatmaca/ibrahimatmaca/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimatmaca/ibrahimatmaca/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ibrahimatmaca/ibrahimatmaca/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
