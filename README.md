@@ -84,7 +84,6 @@
 
 ## 📱 Apps & Projects
 
-- **MoneyPay:** Leading-edge payment & wallet app (App Store & Play Store)
 - **[QTickers](https://qtickers.com/):** Real-time crypto price notification bot (indie project)
 - **[Elevana](https://apps.apple.com/us/app/elevana/id6745828686):** iOS goals & vision board app with widgets and Live Activities
 - **Wada Collection:** Wardrobe and outfit suggestions based on the Sanzo Wada color palette (SwiftUI, SwiftData, StoreKit 2) — coming soon
